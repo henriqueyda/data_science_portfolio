@@ -1,2 +1,4 @@
-# Data Science Portfolio
-My Data Science Portfolio
+#  Portfolio de Data Science
+
+
+Bem-vindo ao meu Portfolio de Data Science. Neste repositório eu apresento diversos projetos desenvolvidos por mim, todos eles documentados em Jupyter Notebook. Como alguns datasets utilizados nos projetos são relativamente pesados, eles não estão armazenados nesse repositório por questões de espaço, todavia as instruções para download estão sempre descritas no notebook. O portfolio está atualmente dividido em 3 pastas por tipo de projeto (classificação, regressão e séries temporais) e cada pasta contem um notebook por projeto dividido em seções que correspondem às etapas de um projeto de Data Science. Este repositório está sendo atualizado constantemente com novos projetos. 
